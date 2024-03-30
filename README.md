@@ -7,3 +7,8 @@ Apart from normal functions:-
 <li>Mathematical constants like Pi and Euler’s constant are fed into this calculator for precise calculations. </li>
 </ul>
 </p>
+<hr>
+
+![calculator](https://github.com/Mahima-Pattanayak/Scientific-Calculator/assets/164752721/6b2207bc-c369-460d-b822-c68f892d6c7c)
+
+<hr>
